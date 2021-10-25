@@ -1,0 +1,2 @@
+# cordova-mini
+cordova-mini
